@@ -48,7 +48,7 @@ Mirror.prototype.sync = function(oncomplete) {
 				} else {
 					counter++;
 					if(counter == self.idbConnection.objectStoreNames.length && oncomplete)
-						oncomplete();
+						oncomplete(self);
 				}
 			}
 		})(this, storages[i]);
