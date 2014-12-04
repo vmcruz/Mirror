@@ -11,7 +11,7 @@ DONE!
 ~~Multiple inner join (after I complete the first one)~~  
 SO DONE!
 
-New methos added!
+New methods added!
 =====
 
 ```javascript
