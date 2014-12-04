@@ -6,10 +6,10 @@ Although is still in progress I'm publishing it because I think is ready for sim
 as soon as I can. The next features will be:
 
 ~~Inner join~~  
-DONE
+DONE!
 
 ~~Multiple inner join (after I complete the first one)~~  
-SO DONE
+SO DONE!
 
 New methos added!
 =====
